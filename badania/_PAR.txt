@@ -1,0 +1,81 @@
+Below information has to with usability testing a website. Create a through overview based on information from all users. Create a list of most important remarks. (in polish)
+
+Scenariusz testów użyteczności:
+1. Masz logo Politechniki Wrocławskiej (pwr-logo.pdf)
+2. Wybierz 30 toreb i spróbuj personalizować znakowanie produktu:
+   a. wybierz rodzaj znakowania Sitodruk
+   b. o 3 kolorach znakowania (logo PWr ma 3 kolory)
+   c. znakowanie jednej strony torby
+3. Prześlij podaną wcześniej grafikę (pwr-logo.pdf)
+   i umieść w ograniczonym obszarze znakowania.
+4. Spróbuj usunąć białe tło w logo.
+5. Spróbuj zmienić pozycję logo tak aby
+   znajdowało się w prawym dolnym rogu
+   ograniczonego obszaru znakowania.
+6. Spróbuj dowolnie zmienić rozmiar logo.
+7. Spróbuj dowolnie obrócić logo.
+8. Spróbuj dowolnie zmienić kolory logo.
+9. Spróbuj zapisać zmiany.
+10. Odśwież stronę przeglądarki.
+11. Spróbuj kontynuować edycję produktu.
+12. Zatwierdź swoje zmiany i zacznij proces składania zamówienia.
+
+Pytania do użytkowników po testowaniu każdego rozwiązania:
+a. Jak opisałbyś swoje ogólne wrażenia z korzystania z witryny?
+b. Co okazało się najbardziej frustrujące lub trudne?
+c. najbardziej ci się podobało lub było łatwe?
+d. Czy były jakieś funkcje, które były szczególnie przydatne lub niepotrzebne?
+e. Czy masz jakieś dodatkowe uwagi lub sugestie?
+
+UŻYTKOWNIK 1:
+
+Przebieg:
+przeglądał zakładkę zdobienia, zwiększył ilość do 30, dodał do koszyka, pobrał szablony zdobień, zaczął czytać zdobienia w zakładce zdobienia, nie wiedział gdzie przejść do znakowania i czy stało się coś innego niż pobranie pliku, przeszedł do koszyka, zaznaczył zdobienie jednocześnie szybko klikając na duplikowanie, kliknął w dtf pełny kolor, potem zmienił na pierwszy sitodruk, zmienił na 3 kolory, najpierw kliknął wgraj projekt, potem na projektuj, potem wybrał dodaj grafikę, zaimportował, usunął tło do krawędzi ale zastanawiał się czy nie cały kolor, kliknął na dodane logo, przeszedł do torby, zmienił rozmiar i pozycję, nie wiedział jak obrócić, próbował zmienić kolor logo w pierwszym panelu, nie rozumiał jak działa zmiana koloru, myślał że zmiany zapisały się automatycznie, później znalazł przycisk zapisz, kliknął na podgląd, przeszedł do projektuj, zapisał, przeszedł do zamawiania
+
+Pytania:
+a. dużo informacji, nie wiadomo co klikać, trzeba dużo czytać, na początku nie wiadomo jak dodać znakowanie, w końcu można wpaść żeby wejść do koszyka - dodać produkt który nie jest oznakowany
+b. trzeba dużo czytać i doszukiwać się opcji projektowania
+c. zmiana kolorów ale niedopracowana, zmiana pozycji i rozmiaru
+d. zmiana położenia logo przydatna
+e. dużo skakania po stronie
+
+UŻYTKOWNIK 2:
+
+Przebieg:
+zmienił nakład na 30, spojrzał na dostępność, kolorystykę i zdobienia, wszedł w zakładkę zdobień i zaczął przeglądać szukając kolorów, kliknął w pobranie szablonu zdobienia i anulował, zdziwił się dwoma rodzajami sitodruku, przeglądał menu po lewej i do góry, przeglądał kalkulator wycen i inne zakładki, pobrał szablon zdobienia z zakładek, nie mógł znaleźć gdzie znakować, dużo frustracji i chciał opuścić stronę, przeglądał dokładniej menu, dodał do koszyka, zaznaczył zdobienie jednocześnie szybko klikając na duplikowanie, wybrał sitodruk, zaznaczył 3 kolory, chciał wgrać projekt, wybrał projektuj, kliknął dodaj grafikę, wgrał logo, chciał usunąć tło przycinając krawędzie, kliknął usuń tło do krawędzi, przeciągnął dodane logo, przeszedł do torby, zmienił rozmiar i pozycję, próbował obrócić, zmienił kolory nie wiedząc, że trzeba odkliknąć, żeby wybrać kolor, szukał obracania w menu po lewej, po długim czasie udało się obrócić logo, po zabawie z przybliżeniem, zapisał projekt, chcąc wrócić do edycji wszedł w projektowanie przy znakowaniu dtf, zapisał projekt i znalazł złożenie zamówienia
+
+Pytania:
+a. słabo, nie wiadomo gdzie jest personalizacja, metoda prób i błędów, nieintuicyjne opisy
+b. zmiana kolorów dziwna, domyślnie nie widać, że można obracać
+c. samo narzędzie w miarę wygodne, ale niedokładne
+d. opisy zdobień są mało wygodne i niezrozumiałe dla laika
+e. cofanie strzałką przeglądarki działa inaczej niż można by się spodziewać
+
+UŻYTKOWNIK 3:
+
+Przebieg:
+klikał na przyciski do pobrania wzorów zdobienia, przeszukiwał liste zdobień potem patrzył na menu do góry i po lewej szukając instrukcji, potem dodał do koszyka i zaznaczył zdobienie jednocześnie szybko klikając na duplikowanie, znalazł sitodruk, wybrał szukając różnic, kliknął wgraj projekt, zmienił ilość kolorów i wszedł do personalizacji, dodaj grafikę, wgrał logo, pikseloza, próbował przyciąć tło przycinaniem, użył lupy żeby zmniejszyć logo, przeklikał na torbę, zmienił rozmiar grafiki, próbował zmienić kolor, nie rozumiał jak działa zmienianie kolorów, przeszukiwał kafelki z logo, próbował zapisać projekt nie mógł bo nie zmienił kolorów, wybrał wszystkie kolory żeby sprawdzić co się stało, próbował obrócić, przeszukiwał zdobienia, nie widział opcji do obrócenia, pojawił się 4 kolor - błąd, nie obrócił logo - nie widział opcji, zapisał i kontynował bez problemu, zauważył błędy z kolorami, kliknąłby złoż zamówienie
+
+Pytania:
+a. jest dość przejrzysta poza obrotem, nawet łatwa w obsłudze
+b. znalezienie edycji torby, obracanie logo, nie wiadomo czemu nie można powiększyć logo na maksa
+c. łatwość edycji, strona łatwa w obsłudze, łatwo składasz zamówienie, jak znajdziesz edycję to już idzie
+d. nie
+e. chowanie czwartego koloru za paskiem to słaby pomysł
+
+UŻYTKOWNIK 4:
+
+Komentarz:
+dobrze zarządza się koszykiem, zdobienie jest dość wyraźnie opisane, narzędzie mocno problemowe, mało intuicyjne, kolory nie do użytku - przy druku na więcej niż jeden kolor bezwartościowe, nie da się łatwo wrócić do widoku torby z nadrukiem
+
+UŻYTKOWNIK 5:
+
+Przebieg:
+zwiększa ilość do 30, sprawdza kolorystykę, sprawdza zdobienie, klika w kolor - zresetowała się ilość, pobrał zdobienie i otworzył pdf, ogląda szczegóły produktu, wymiary, przegląda podobne produkty, patrzy na stopkę, patrzy na pasek do góry, pobrał specyfikację produktu, przegląda zdobienia, dodaje do koszyka, klika na zdobienie, szuka sitodruku, podaje liczbę kolorów, chce wgrać projekt, klika projektuj, szuka w moich grafikach, klika w moje grafiki, dodaje grafikę, klika usuń tło, zmienia na cały kolor, nie wiedział, że trzeba kliknąć na dodane wcześniej logo, zmniejsza logo przed produktem, dodał tekst i nie wiedział jak usunąć, nie wiedział, że trzeba kliknąć na torbę, tekst zasłonił zmienianie kolorów, nie wiedział jak obrócić
+
+Pytania:
+a. wykonalne, przejrzyste, nie ma dużo znaczków, do ogarnięcia, czytelne
+b. dodanie grafiki
+c. zmiana ilości towaru
+d. nie
+e. nie

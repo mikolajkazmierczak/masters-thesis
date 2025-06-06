@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>EYE TRACKING</title>
+    <style>
+      body,
+      html {
+        margin: 0;
+        padding: 0;
+        height: 100%;
+        box-sizing: border-box;
+      }
+
+      a {
+        padding: 20px;
+      }
+    </style>
+  </head>
+  <body>
+    <a
+      id="1"
+      onclick="check(1)"
+      target="_blank"
+      href="https://app.gazerecorder.com/Study/Test?StudyID=806366ee11b2e54541cf6c0457af96e0&lang=en&RespondentID=null"
+      >1</a
+    >
+    <a
+      id="2"
+      onclick="check(2)"
+      target="_blank"
+      href="https://app.gazerecorder.com/Study/Test?StudyID=31421c2e5fb0e80640d15056a286adf0&lang=en&RespondentID=null"
+      >2</a
+    >
+    <a
+      id="3"
+      onclick="check(3)"
+      target="_blank"
+      href="https://app.gazerecorder.com/Study/Test?StudyID=ee48ac5d7d4f488e4a07d7af18654917&lang=en&RespondentID=null"
+      >3</a
+    >
+    <a
+      id="4"
+      onclick="check(4)"
+      target="_blank"
+      href="https://app.gazerecorder.com/Study/Test?StudyID=ab7011755ddca39e99d7672043929332&lang=en&RespondentID=null"
+      >4</a
+    >
+    <a
+      id="5"
+      onclick="check(5)"
+      target="_blank"
+      href="https://app.gazerecorder.com/Study/Test?StudyID=fc4a9b1694ce47ad1bf97c0585256755&lang=en&RespondentID=null"
+      >5</a
+    >
+    <a
+      id="6"
+      onclick="check(6)"
+      target="_blank"
+      href="https://app.gazerecorder.com/Study/Test?StudyID=992ff84384d7b22eefc55ea57c8c931f&lang=en&RespondentID=null"
+      >6</a
+    >
+  </body>
+  <script>
+    function check(buttonId) {
+      const button = document.getElementById(buttonId);
+      button.style.backgroundColor = 'lightgreen';
+    }
+  </script>
+</html>

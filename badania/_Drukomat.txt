@@ -1,0 +1,81 @@
+Below information has to with usability testing a website. Create a through overview based on information from all users. Create a list of most important remarks. (in polish)
+
+Scenariusz testów użyteczności:
+1. Masz logo Politechniki Wrocławskiej (pwr-logo.pdf)
+2. Wybierz 30 toreb i spróbuj personalizować znakowanie produktu:
+   a. wybierz rodzaj znakowania Sitodruk
+   b. o 3 kolorach znakowania (logo PWr ma 3 kolory)
+   c. znakowanie jednej strony torby
+3. Prześlij podaną wcześniej grafikę (pwr-logo.pdf)
+   i umieść w ograniczonym obszarze znakowania.
+4. Spróbuj usunąć białe tło w logo.
+5. Spróbuj zmienić pozycję logo tak aby
+   znajdowało się w prawym dolnym rogu
+   ograniczonego obszaru znakowania.
+6. Spróbuj dowolnie zmienić rozmiar logo.
+7. Spróbuj dowolnie obrócić logo.
+8. Spróbuj dowolnie zmienić kolory logo.
+9. Spróbuj zapisać zmiany.
+10. Odśwież stronę przeglądarki.
+11. Spróbuj kontynuować edycję produktu.
+12. Zatwierdź swoje zmiany i zacznij proces składania zamówienia.
+
+Pytania do użytkowników po testowaniu każdego rozwiązania:
+a. Jak opisałbyś swoje ogólne wrażenia z korzystania z witryny?
+b. Co okazało się najbardziej frustrujące lub trudne?
+c. najbardziej ci się podobało lub było łatwe?
+d. Czy były jakieś funkcje, które były szczególnie przydatne lub niepotrzebne?
+e. Czy masz jakieś dodatkowe uwagi lub sugestie?
+
+UŻYTKOWNIK 1:
+
+Przebieg:
+zmienił parametry po lewej, nie wiedział, czy wybrać sprawdzanie przez konsultanta czy automatyczne, zmienił nakład, najpierw próbując kliknąć na cyfrę nakładu, potem na cenę, nie wiedział jak personalizować, czytał warunki wysyłki, dodał do koszyka, przez co nie mógł później zobaczyć instrukcji do kreatora, przeszedł do koszyka, kliknął edytuj, przez co wrócił do produktu, patrzył na centrum pomocy i napisał wiadomość do supportu, czytał jak przygotować plik po lewej, patrzył na opcje cenowe, czytał dokładnie kolumnę po prawej, utworzył ofertę, zapisał produkt, kliknął zamawiam, przeskanował szczegóły, przeszedł do pracy z plikami, kliknął na kreator, kliknął na dodawanie grafiki, chciał usunąć tło, edytując kolor warstwy tła, zmienił rozmiar i pozycję logo, szukał usuwania tła po prawej, do góry, próbował zmienić przezroczystość, licząc, że usunie tło, obrócił logo, próbował zmienić kolory logo, przez przypadek dodając ramkę, zapisał projekt, przeszedł do zamówienia
+
+Pytania:
+a. nie wiadomo zupełnie jak personalizować grafikę - szukanie w parametrach produktu
+b. personalizacja grafiki, warstwy są niewygodne, szczególnie warstwa tło jest myląca
+c. cennik, ładna strona
+d. fajnie widać jak cena się zmienia w tabelce, informacje w kolumnie po prawej wydają się niepotrzebne
+e. strach kliknąć przycisk zamów, normalnie wyszłoby się ze strony i szukano innej, fajnie że jest czat, chociaż fajnie gdyby był czatbot który by pomógł od razu
+
+UŻYTKOWNIK 2:
+
+Przebieg:
+zmienił parametry po lewej, wybrał nakład, zmienił produkt na ten, który już i tak był wybrany, i stracił progress, wybrał 3 kolory znakowania, chciał wybrać jeden, bo myślał, że to druk jednostronny (błąd myślowy), czytał prawą kolumnę, wszedł w instrukcję kreatora, wrócił do produktu i zresetował się postęp, wszedł w zamówienie, czytał szczegóły zamówienia, wszedł w pracę z plikami, wybrał kreator, chciał dodać grafikę przeciągając z folderu, dodał grafikę, zaimportował, chciał usunąć tło wybierając warstwę tło, szukał usuwania tła w warstwie z grafiką, w samej grafice, w menu po lewej, później zauważył po przescrollowaniu do góry, że jest jeszcze menu do góry, szukał zmiany kolorów logo klikając na warstwę z logo, zmienił rozmiar, obrócił, próbował cofać klikając ctrl+z, szukał zmiany kolorów w dodawaniu obrazu, żeby zapisać projekt chciał kliknąć zapisz i wyślij do weryfikacji, nie kliknął w zapisz projekt i stracił zmiany bez informacji, że tak się stanie, nie mógł znaleźć z powrotem edycji, zdążył zapomnieć gdzie był, szukał w menu mój drukomat, wszedł z powrotem do zamówień, znalazł płatność i dokonanie zamówienia
+
+Pytania:
+a. od początku strona jest przytłaczająca, bardzo frustrujące
+b. wszystko się "psuje" - traci stan dokonanych zmian
+c. cennik jest fajny i przejrzysty, chociaż nieco przytłacza
+d. brakuje możliwości edycji logo innych niż rozmiar i pozycja, cały widok edytora to overkill patrząc na to, co oferuje, fajnie, że są instrukcje do różnych rzeczy
+e. padały zdania typu "nic nie można tu zrobić", "strona wydaje się ładna, a mimo to wszystko jest niewygodne"
+
+UŻYTKOWNIK 3:
+
+Przebieg:
+patrzył na opcje po lewej, analizował lewą kolumnę, kliknął na 30 sztuk, ceny wyglądały jak giełda, dziwne scrollowanie strony, szukał opcji customizacji na całej stronie, wszedł w dowiedz się więcej o kreatorze, zauważył, że trzeba kliknąć zamów, kliknął zamów, szukał opcji edycji w szczegółach zamówienia, wszedł w pracę z plikami, wybrał kreator, próbował wrzucić plik przeciągając z zewnątrz, jednak próbował dodać plik, co nie doprowadziłoby do customizacji, nie mógł znaleźć opcji dodania pliku, wyłączał i włączał warstwy, dodał plik, zmienił rozmiar, obrócił, szukał opcji do usuwania tła po prawej i do góry, próbował zmieniać przezroczystość, przeszukiwał wszystkie opcje, próbował zmienić kolor warstwy tła - nie rozumiał do czego jest ta warstwa, próbował szukać opcji klikając prawym w zdjęcie, kliknął zapisz projekt, od razu wrócił do edycji, po powrocie do edycji nagle zdjęcie było zbyt blisko krawędzi i nie dało się zapisać, przeszedł do płatności
+
+Pytania:
+a. toporna strona, toporny edytor, ceny wyglądają jak giełda
+b. nie podoba się jakie małe jest zdjęcie, nie podoba się, że zresetowało po powrocie z tutoriala, niepotrzebnie utrudnione
+c. zmiana parametrów po lewej, wybór ceny
+d. brakuje funkcji kolorów i tła, bardzo podstawowy
+e. bez sensu customizować kolor produktu kiedy jest jeden, strona "długo myśli", to że po edycji wracasz i nagle jest zbyt blisko krawędzi jest stresujące, bo może wyrzucić w systemie firmie, która robi produkt, że jest źle zcustomizowane, powinno się dać wejść do kreatora przed zamówieniem, fajnie że worek jest pokazany w praktycznym zastosowaniu, dobrze że są instrukcje poniżej, info o przygotowaniu pliku powinno być bardziej wyszczególnione
+
+UŻYTKOWNIK 4:
+
+Komentarz:
+trzeba uważać na zmiany bo wszystko się resetuje, słowo zamawiam przed personalizacją jest niepokojące dla użytkownika, nie ma opcji edycji grafiki
+
+UŻYTKOWNIK 5:
+
+Przebieg:
+klika w opcje po lewej, zmienia na 3 kolory, szuka informacji po lewej, potem po całej stronie, nie wie jak zaznaczyć 30 sztuk, próbuje klikać bezpośrednio w nakład, patrzył na kroki zamówienia, patrzył na mój drukomat, wszedł w przesyłki, patrzył jak przygotować plik, czytał niżej o torbie i jak przygotować plik do druku, zastanawiał się, czy nie wejść w instrukcję kreatora, nie wiedział jak personalizować (że najpierw trzeba zamówić), wchodzi do pracy z plikami, klika stwórz własny projekt, klika w dodawanie grafiki i zamiast dodaj klika w zapisz i prześlij do weryfikacji, próbuje usunąć tło klikając na warstwę tło, szuka w opcjach po lewej i do góry, próbuje zmienić kolor w warstwie tło, chcąc obrócić logo obrócił całą wizualizację, szuka po lewej, do góry, potem po prawej, zapisuje projekt na dole, żeby zamówić klika w koszyk, chce kliknąć ponów zamówienie, zastanawia się, czy kliknąć płatność
+
+Pytania:
+a. ciężkie doświadczenie, toporne, ale do opanowania
+b. nie wiadomo jak wybrać nakład
+c. wybranie opcji kolorów
+d. dużo niepotrzebnych opcji
+e. nie wiadomo jak zapłacić

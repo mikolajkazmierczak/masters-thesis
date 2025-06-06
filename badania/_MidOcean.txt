@@ -1,0 +1,81 @@
+Below information has to with usability testing a website. Create a through overview based on information from all users. Create a list of most important remarks. (in polish)
+
+Scenariusz testów użyteczności:
+1. Masz logo Politechniki Wrocławskiej (pwr-logo.pdf)
+2. Wybierz 30 toreb i spróbuj personalizować znakowanie produktu:
+   a. wybierz rodzaj znakowania Sitodruk
+   b. o 3 kolorach znakowania (logo PWr ma 3 kolory)
+   c. znakowanie jednej strony torby
+3. Prześlij podaną wcześniej grafikę (pwr-logo.pdf)
+   i umieść w ograniczonym obszarze znakowania.
+4. Spróbuj usunąć białe tło w logo.
+5. Spróbuj zmienić pozycję logo tak aby
+   znajdowało się w prawym dolnym rogu
+   ograniczonego obszaru znakowania.
+6. Spróbuj dowolnie zmienić rozmiar logo.
+7. Spróbuj dowolnie obrócić logo.
+8. Spróbuj dowolnie zmienić kolory logo.
+9. Spróbuj zapisać zmiany.
+10. Odśwież stronę przeglądarki.
+11. Spróbuj kontynuować edycję produktu.
+12. Zatwierdź swoje zmiany i zacznij proces składania zamówienia.
+
+Pytania do użytkowników po testowaniu każdego rozwiązania:
+a. Jak opisałbyś swoje ogólne wrażenia z korzystania z witryny?
+b. Co okazało się najbardziej frustrujące lub trudne?
+c. najbardziej ci się podobało lub było łatwe?
+d. Czy były jakieś funkcje, które były szczególnie przydatne lub niepotrzebne?
+e. Czy masz jakieś dodatkowe uwagi lub sugestie?
+
+UŻYTKOWNIK 1:
+
+Przebieg:
+kliknął skonfiguruj, zmienił nakład, wybrał odpowiednie znakowanie zwracając uwagę na maksymalną ilość kolorów, zmienił ilość kolorów, kliknął na personalizację, najpierw wybrał metodę prostą, potem najczęściej używaną, przeklikał tutorial bez czytania, kliknął na dodawanie grafiki, zaimportował bez problemu, zmienił pozycję, rozmiar i obrócił, przybliżył zoom kółkiem myszy, zmienił na poruszanie się rączką, szukał usuwania tła na pasku nad zdjęciem, usunął tło dodając przezroczystość i usuwając cały kolor, zmienił kolory, zapisał jako koncept, dodał do nowej grupy moich wycen nie będąc pewny, wrócił do widoku produktu, nie wiedział jak wrócić do wycen, wszedł do koncepcji yourChoice, kliknął w moje logo, kliknął w moje wyceny i wycofał się, później wrócił do moich wycen i znalazł grupę którą stworzył, wrócił do personalizacji produktu, nie wiedział czemu nie mógł kliknąć w zamów, zapisał jako koncept, przeszedł do produktu, wrócił i kliknął w podgląd i wysyłkę przez email, dodał do koszyka, obejrzał podgląd, przeszedł do zamówienia
+
+Pytania:
+a. dużo informacji, fajna zmiana kolorów
+b. składanie zamówienia po edycji - nazewnictwo się nie zgadza, jest mylące, za mały przycisk koszyczka
+c. edycja logo, zmiana kolorów
+d. miękkie ograniczenie obszaru edycji niepotrzebne
+e. koncept to dziwne słowo - nie ma sensu że przechodzi do wycen, w niektórych miejscach tekst jest po angielsku
+
+UŻYTKOWNIK 2:
+
+Przebieg:
+kliknął w skonfiguruj i personalizuj, wpisał nakład, wybrał znakowanie najpierw patrząc na szczegóły, zaznaczył 3 kolory, wybrał zaawansowaną metodę personalizacji, próbował wgrać logo przeciągając z folderu, zwrócił uwagę na ostrzeżenie, wszedł w notyfikacje, długo szukał wgrywania logo, po wejściu w bibliotekę szybko znalazł importowanie nowego, dodał logo, szukał usuwania tła najpierw w narzędziach nad grafiką, kliknął w przezroczyste tło wybierając pełne tło, zmienił rozmiar, pozycję i obrócił logo, zmienił kolory, usunął jeden kolor, zmieniając jeden z kolorów na taki sam jak jeden z pozostałych, a przez niewiedzę, że można cofnąć zmiany, zaczął personalizację od nowa, nie mógł zapisać projektu, bo nie zwrócił uwagi na komunikat, że grafika jest poza obszarem, zapisał jako koncept, nie wiedział, że można dodać nową grupę wycen, wszedł w widok produktu, chcąc wrócić do edycji, szybko znalazł przycisk edycji, zamiast zapisać znowu jako koncept, wrócił się w przeglądarce, znalazł koszyk do rozpoczęcia zamówienia
+
+Pytania:
+a. wygodna strona, choć lekko trudna, wydaje się profesjonalna
+b. wybieranie pozycji znakowania specyficzne, ale nieintuicyjne, żeby mieć znakowanie z przodu i z tyłu, trzeba zaznaczyć dwie opcje, bo wybór jest kółkiem, miękkie ograniczenie sprawiło, że można nie zauważyć, że przez to można zapisać, trudno wrócić do "moich wycen", żeby edytować produkt
+c. przyjemna edycja logo
+d. nazwy wycen konceptów są dziwne i niepotrzebne, powinna to być oddzielna funkcjonalność od zapisywania projektu
+e. "podgląd i wysyłka przez email" wydaje się zamówieniem
+
+UŻYTKOWNIK 3:
+
+Przebieg:
+zauważył torbę, patrzył na szczegóły i opis, spersonalizuj, nie wiedział od czego jest 0, pomyślał, że to może być "informatyczna wartość koloru", nie był pewny, że to ilość, ale było napisane ile w magazynie, wybrał 30 toreb, wybiera pozycje znakowania, chce front, wybrał sitodruk, zobaczył opisy znakowań, personalizacja - nie ma info o zmianie kolorów, więc wybrałby proste, odklika i znowu klika żeby wybrać, usunąłby możliwość odkliknięcia opcji, przeklikuje tutorial, denerwuje, że przewija stronę, kliknął dodaj pozycje nadruku, biblioteka, importuj, próbował przeciągnąć, zaimportował, podoba się, że nie ma pikselozy, usunął tło tylko obrazem zewnętrznym, więc zostały białe elementy w napisie, obrócił, zduplikował logo, zobaczył poza obszarem, zapisał jako koncept, stworzył nową grupę wycen, od razu znalazł edycję, zapisał i szukał w menu żeby zamówić, patrzył na zielony przycisk wysłania przez email, dodał do koszyka, ale myślał, że doda się tylko personalizacja, kliknąłby order
+
+Pytania:
+a. dobrze
+b. scroll utrudnia przemieszczanie się po menu edycji
+c. nie wiadomo gdzie wpisać ilość
+d. fajne opcje do wyrównania, zaznaczanie i odznaczanie metody personalizacji
+e. nie podoba się, że edycja jest w dodatkowo scrollowanym oknie
+
+UŻYTKOWNIK 4:
+
+Komentarz:
+tutorial jest bez sensu, irytujący, mało czytelne ikonki, dobrze rozpoznaje kolory, zostawia białe tło, które jeśli nie usuniesz pójdzie do druku, jeśli usuniesz kolor to trzeba zacząć od nowa
+
+UŻYTKOWNIK 5:
+
+Przebieg:
+zjechał na dół, wrócił do góry, zjechał do konfiguratora, wrócił do góry, zjechał do konfiguratora, zmienił ilość na 30, chciał dodać do koszyka od razu, dodał pozycję znakowania na tył torby sitodruk, zmienił ilość kolorów na 3, kliknął personalizacja, wybrał zaprojektuj własne, czytał tutorial, w połowie tutorialu zwrócił uwagę na komunikat o pustym miejscu i porzucił tutorial, kliknął na zmianę pozycji znakowania, kliknął na bibliotekę, przeszukiwał loga, nie widział od razu załadowania nowego pliku, importował logo, kliknął importuj, zdziwił się z momentu, w którym nie było jeszcze komunikatu o wczytywaniu, zatwierdził, zmienił rozmiar, obrócił, szukał w opcjach nad zdjęciem, czytał, co robią opcje, kliknął na przycinanie, myślał, że kolory po prawej to kolory torby, kliknął w przezroczyste tło - tylko obraz zewnętrzny, szukał zapisania do góry i do dołu, zapisz jako koncept, zapisał do koszyka, próbował wrócić do edycji powrotem w przeglądarce, chciał kliknąć w podgląd, chciał wejść do moje konto, wszedł w moje logo, wszedł w moje konto, nie wiedział jak złożyć zamówienie, bo się wyszarzyło, wszedł w szczegóły, chciał wejść w podgląd i wysyłkę przez email, nie mógł znaleźć koszyka
+
+Pytania:
+a. łatwiej niż PAR, czuć przytłoczenie, dużo znaczków i napisów
+b. nie wiadomo jak zamówić
+c. edycja nadruku była łatwa
+d. dużo opcji było niepotrzebnych, masa niepotrzebnych wyrazów, dużo czytania
+e. powinno być łatwiej - tylko niezbędne funkcje potrzebne do zamówienia
