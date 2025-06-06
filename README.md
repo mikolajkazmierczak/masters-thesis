@@ -16,11 +16,12 @@ Eye-tracking | Word Cloud
 
 The design phase focused on creating a tool with a focus on simplicity and efficiency. Based on the research findings, the interface was streamlined to minimize friction — clear navigation, highlighted action buttons, and a streamlined workflow that allows users to personalize products before adding them to the cart. The editor supports both vector and raster graphics, uploading logos, adjusting colors, removing backgrounds, and precisely positioning elements within a defined print area. A key improvement was the implementation of automatic saving, ensuring users never lose their progress, alongside undo/redo functionality.
 
-Sketches were drawn in Affinity Design and later turned into Mockups using Figma, visualizing the user journey, from product selection, through the editor, to the final checkout. The design incorporated feedback from usability tests. The editor interface includes drag-and-drop zones for seamless image uploads, real-time previews, visual indicators for personalized items, and contextual help. These refinements resulted in a prototype that balances advanced functionality with ease of use, addressing all the core frustrations identified in existing tools.
-
 Usecase Diagram |
 -|
-<img src="projekt/usecase.jpg" alt="usecase" style="max-width: 400px;"> |
+<img src="projekt/usecase.jpg" alt="usecase" style="width: 400px;"> |
+
+Sketches were drawn in Affinity Design and later turned into Mockups using Figma, visualizing the user journey, from product selection, through the editor, to the final checkout. The design incorporated feedback from usability tests. The editor interface includes drag-and-drop zones for seamless image uploads, real-time previews, visual indicators for personalized items, and contextual help. These refinements resulted in a prototype that balances advanced functionality with ease of use, addressing all the core frustrations identified in existing tools.
+
 
 Before Personalization Sketch | After Personalization Sketch
 -|- 
