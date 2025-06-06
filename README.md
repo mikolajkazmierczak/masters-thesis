@@ -8,6 +8,8 @@ This project was created for [REED](https://reed.kalisz.pl/) company that specia
 
 A comprehensive review of existing tools (PAR, MidOcean, and Drukomat) was conducted, evaluating their usability, functionality, performance, and compatibility. Usability tests, including 5-second tests, eye-tracking, first-click tests and preference testing, revealed key pain points such as non-intuitive navigation, unstable editing tools, and unclear instructions. Functional testing assessed features like image uploads, text editing, and real-time visualization, while performance metrics (e.g., load times, compatibility) were measured using tools like Google Lighthouse and Chrome DevTools. The results highlighted MidOcean as the most user-friendly but identified areas for improvement across all tools.
 
+![midocean-editor](badania/_MidOcean-2-merged.png)
+
 ### Design and Prototyping
 
 The design phase focused on creating a tool with a focus on simplicity and efficiency. Based on the research findings, the interface was streamlined to minimize friction — clear navigation, highlighted action buttons, and a streamlined workflow that allows users to personalize products before adding them to the cart. The editor supports both vector and raster graphics, uploading logos, adjusting colors, removing backgrounds, and precisely positioning elements within a defined print area. A key improvement was the implementation of automatic saving, ensuring users never lose their progress, alongside undo/redo functionality.
